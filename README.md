@@ -14,3 +14,6 @@ Membuat aplikasi HOME STAY ala RBNB menggunakan Django versi 4.2
         1. Menginstal Python, pip, virtualenv.
         2. Menginstal PostgreSQL database.
         3. Membuat repositori dan mengklonnya.
+
+
+## 2. Getting Started
